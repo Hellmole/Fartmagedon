@@ -18,14 +18,13 @@ Více informací budou postupně zveřejněny v tomto repozitáři.
 
 Ukázky z vývoje:
 
-<img width="1053" height="646" alt="fartmagedon" src="https://github.com/user-attachments/assets/5524f404-60c7-4809-b698-68f6613f8878" />
-
 <img width="470" height="280" alt="obrazek" src="https://github.com/user-attachments/assets/11164847-87b0-4842-a7a6-89cbf3c7f93f" />
 
 Nepřátelské Youtube dítě:
 
 <img width="277" height="290" alt="obrazek" src="https://github.com/user-attachments/assets/d349f473-1882-4f87-837e-ab6619b813b5" />
 
+<img width="1053" height="646" alt="fartmagedon" src="https://github.com/user-attachments/assets/5524f404-60c7-4809-b698-68f6613f8878" />
 
 
 
