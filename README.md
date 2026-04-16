@@ -1,6 +1,6 @@
 # Fartmagedon: simulátor dědka, pro kterého je každý den jako poslední level Dooma
 
-Fronty u doktora, honba za slevami, nebo boj o místo v tramvaji. Co kdyby se z toho ale stal herní zážitek?
+Samoobslužné pokladny, honba za slevami, nebo boj o místo v tramvaji. Co kdyby se z toho ale stal herní zážitek?
 
 Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každodenní život důchodce v moderním světě. Hráči se ujmou role Jana, seniora z jednoho nejmenovaného českého města Berouna a čekají je "mise" jako:
 
