@@ -1,8 +1,8 @@
 # Fartmagedon: simulátor dědy, pro kterého je každý den jako poslední level Dooma
 
-Určitě všichni víme, jak to mají senioři těžké – fronty u doktora, honba za slevami, nebo boj o místo v tramvaji. Co kdyby se z toho ale stal herní zážitek?
-Netradičním projektu Fartmagedon, který s nadsázkou simuluje každodenní život důchodce v moderním světě. Hráči se ujmou role Jana, seniora z jednoho nejmenovaného českého města Berouna, a čekají je mise jako:
+Fronty u doktora, honba za slevami, nebo boj o místo v tramvaji. Co kdyby se z toho ale stal herní zážitek?
 
+Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každodenní život důchodce v moderním světě. Hráči se ujmou role Jana, seniora z jednoho nejmenovaného českého města Berouna a čekají je "mise" jako:
 
 •	získat co nejvíce diagnóz u lékaře
 
@@ -10,9 +10,9 @@ Netradičním projektu Fartmagedon, který s nadsázkou simuluje každodenní ž
 
 •	ulovit máslo ve slevě dřív než ostatní
 
-Nebudou chybět ani nástrahy současnosti – samoobslužné pokladny, digitální šmejdi nebo nevyzpytatelné „YouTube děti“.
+Nebudou chybět ani nástrahy současnosti – zákeřné samoobslužné pokladny, digitální šmejdi nebo nevyzpytatelné „YouTube děti“.
 Hra je postavená na humoru a absurdních situacích – bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
-Projekt vzniká v enginu Godot a je zatím v rané fázi vývoje. Autor plánuje hru dále rozvíjet a reagovat na zpětnou vazbu komunity.
+Projekt vzniká v enginu Godot a je zatím v rané fázi vývoje. Hra se bude dále rozvíjet a reagovat na zpětnou vazbu komunity.
 
 Více informací budou postupně zveřejněny v tomto repozitáři.
 
