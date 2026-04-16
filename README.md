@@ -24,6 +24,8 @@ Nepřátelské Youtube dítě:
 
 <img width="277" height="290" alt="obrazek" src="https://github.com/user-attachments/assets/d349f473-1882-4f87-837e-ab6619b813b5" />
 
+Ukázka herní fyziky:
+
 <img width="1053" height="646" alt="fartmagedon" src="https://github.com/user-attachments/assets/5524f404-60c7-4809-b698-68f6613f8878" />
 
 
