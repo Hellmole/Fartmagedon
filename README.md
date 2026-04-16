@@ -2,7 +2,7 @@
 
 Samoobslužné pokladny, honba za slevami, nebo boj o místo v tramvaji. Co kdyby se z toho ale stal herní zážitek?
 
-Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každodenní život důchodce v moderním světě. Hráči se ujmou role Jana, seniora z jednoho nejmenovaného českého města Berouna a čekají je "mise" jako:
+Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každodenní život důchodce "To za nás nebylo" v moderním světě plným nástrach a podivností - jako je hobby horsing, random dance lidi, nebo influenceři. Hráči se ujmou role Jana, seniora z jednoho nejmenovaného českého města Berouna a čekají je "mise" jako:
 
 •	získat co nejvíce diagnóz u lékaře
 
@@ -10,8 +10,7 @@ Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každode
 
 •	ulovit máslo ve slevě dřív než ostatní
 
-Nebudou chybět ani nástrahy současnosti - zákeřné samoobslužné pokladny, digitální šmejdi nebo nevyzpytatelné „YouTube děti“.
-Hra je postavená na humoru a absurdních situacích - bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
+Nebudou chybět ani nástrahy současnosti - zákeřné samoobslužné pokladny, digitální šmejdi, nebo nevyzpytatelné „YouTube děti“ a Furríci, které Jan nerozezná od zvířat - takže ani netuší, že jsou to Furríci. Hra je postavená na humoru a absurdních situacích - bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
 Projekt vzniká v enginu Godot a je zatím v rané fázi vývoje. Hra se bude dále rozvíjet a reagovat na zpětnou vazbu komunity.
 
 ## Aktuální stav vývoje
