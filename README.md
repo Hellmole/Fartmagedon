@@ -1,4 +1,4 @@
-# Fartmagedon: simulátor dědy, pro kterého je každý den jako poslední level Dooma
+# Fartmagedon: simulátor dědka, pro kterého je každý den jako poslední level Dooma
 
 Fronty u doktora, honba za slevami, nebo boj o místo v tramvaji. Co kdyby se z toho ale stal herní zážitek?
 
@@ -14,9 +14,19 @@ Nebudou chybět ani nástrahy současnosti – zákeřné samoobslužné pokladn
 Hra je postavená na humoru a absurdních situacích – bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
 Projekt vzniká v enginu Godot a je zatím v rané fázi vývoje. Hra se bude dále rozvíjet a reagovat na zpětnou vazbu komunity.
 
-Více informací budou postupně zveřejněny v tomto repozitáři.
+## Aktuální stav vývoje
 
-Ukázky z vývoje:
+• prototyp postav a prostředí 
+
+• základní pohyb 
+
+• jednoduché animace
+
+• první ukázky herní fyziky
+
+Vývoj projektu můžete sledovat přímo v tomto repozitáři, kde budou postupně přibývat další ukázky, screenshoty a novinky.
+
+Senior Jan:
 
 <img width="470" height="280" alt="obrazek" src="https://github.com/user-attachments/assets/11164847-87b0-4842-a7a6-89cbf3c7f93f" />
 
