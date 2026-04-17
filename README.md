@@ -39,7 +39,7 @@ Nepřátelské Youtube dítě
 
 <img width="331" height="413" alt="obrazek" src="https://github.com/user-attachments/assets/15c1f61e-d59c-4fd1-956e-153102c6ca1f" />
 
-Osoba, která se identifikuje jako sovu
+Osoba, která se identifikuje jako sova
 
 <img width="1053" height="646" alt="fartmagedon" src="https://github.com/user-attachments/assets/5524f404-60c7-4809-b698-68f6613f8878" />
 
