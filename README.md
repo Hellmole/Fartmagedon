@@ -15,6 +15,10 @@ Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každode
 Nebudou chybět ani nástrahy současnosti - zákeřné samoobslužné pokladny, digitální šmejdi, nebo nevyzpytatelné „YouTube děti“ a "Furríci", které Jan nerozezná od zvířat - takže ani netuší, že jsou to Furríci. Hra je postavená na humoru a absurdních situacích - bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
 Projekt vzniká v enginu Godot a je zatím v rané fázi vývoje. Hra se bude dále rozvíjet a reagovat na zpětnou vazbu komunity.
 
+Máte nápad nebo připomínku? Napište mi do Issues:
+
+https://github.com/Hellmole/Fartmagedon/issues/new
+
 ## Aktuální stav vývoje
 
 • prototyp postav a prostředí 
