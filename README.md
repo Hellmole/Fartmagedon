@@ -6,11 +6,13 @@ Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každode
 
 •	získat co nejvíce diagnóz u lékaře
 
+• zkrotit splašený invalidní vozík 
+
 •	vybojovat místo v MHD
 
 •	ulovit máslo ve slevě dřív než ostatní
 
-Nebudou chybět ani nástrahy současnosti - zákeřné samoobslužné pokladny, digitální šmejdi, nebo nevyzpytatelné „YouTube děti“ a Furríci, které Jan nerozezná od zvířat - takže ani netuší, že jsou to Furríci. Hra je postavená na humoru a absurdních situacích - bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
+Nebudou chybět ani nástrahy současnosti - zákeřné samoobslužné pokladny, digitální šmejdi, nebo nevyzpytatelné „YouTube děti“ a "Furríci", které Jan nerozezná od zvířat - takže ani netuší, že jsou to Furríci. Hra je postavená na humoru a absurdních situacích - bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
 Projekt vzniká v enginu Godot a je zatím v rané fázi vývoje. Hra se bude dále rozvíjet a reagovat na zpětnou vazbu komunity.
 
 ## Aktuální stav vývoje
