@@ -12,7 +12,7 @@ Fartmagedon je netradiční herní počin, který s nadsázkou simuluje každode
 
 •	ulovit máslo ve slevě dřív než ostatní
 
-Nebudou chybět ani nástrahy současnosti - zákeřné samoobslužné pokladny, digitální šmejdi, nebo nevyzpytatelné „YouTube děti“ a "Furríci", které Jan nerozezná od zvířat - takže ani netuší, že jsou to Furríci. Hra je postavená na humoru a absurdních situacích - bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
+Nebudou chybět ani nástrahy současnosti - zákeřné samoobslužné pokladny, digitální šmejdi, nebo nevyzpytatelné „YouTube děti“ a "Furríci". Hra je postavená na humoru a absurdních situacích - bugy jsou vítanou součástí zážitku a grafika ustupuje zábavě.
 Projekt vzniká v enginu Godot a je zatím v rané fázi vývoje. Hra se bude dále rozvíjet a reagovat na zpětnou vazbu komunity.
 
 Máte nápad nebo připomínku? Napište mi do Issues:
@@ -32,33 +32,6 @@ https://github.com/Hellmole/Fartmagedon/issues/new
 Vývoj projektu můžete sledovat přímo v tomto repozitáři, kde budou postupně přibývat další ukázky, screenshoty a novinky. Dále tu samozřejmě naleznete i první verze tohoto projektu ke stažení.
 
 <img width="1330" height="888" alt="obrazek" src="https://github.com/user-attachments/assets/9b535a79-5501-4743-b57a-00217e6fad64" />
-
-
-<img width="751" height="378" alt="obrazek" src="https://github.com/user-attachments/assets/fca87db2-5d93-4d4b-8fa4-e49f2d0b3edf" />
-
-
-<img width="1085" height="717" alt="obrazek" src="https://github.com/user-attachments/assets/5cc350bf-1960-4f3b-8dd5-88234c479486" />
-
-
-<img width="470" height="280" alt="obrazek" src="https://github.com/user-attachments/assets/11164847-87b0-4842-a7a6-89cbf3c7f93f" />
-
-Senior Jan
-
-
-
-<img width="277" height="290" alt="obrazek" src="https://github.com/user-attachments/assets/d349f473-1882-4f87-837e-ab6619b813b5" />
-
-Nepřátelské Youtube dítě
-
-<img width="331" height="413" alt="obrazek" src="https://github.com/user-attachments/assets/15c1f61e-d59c-4fd1-956e-153102c6ca1f" />
-
-Osoba, která se identifikuje jako sova
-
-<img width="1053" height="646" alt="fartmagedon" src="https://github.com/user-attachments/assets/5524f404-60c7-4809-b698-68f6613f8878" />
-
-Ukázka herní fyziky "Kdo sem postavil tak blbě ten regál!"
-
-
 
 
 
