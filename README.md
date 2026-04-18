@@ -31,6 +31,9 @@ https://github.com/Hellmole/Fartmagedon/issues/new
 
 Vývoj projektu můžete sledovat přímo v tomto repozitáři, kde budou postupně přibývat další ukázky, screenshoty a novinky. Dále tu samozřejmě naleznete i první verze tohoto projektu ke stažení.
 
+<img width="1330" height="888" alt="obrazek" src="https://github.com/user-attachments/assets/9b535a79-5501-4743-b57a-00217e6fad64" />
+
+
 <img width="751" height="378" alt="obrazek" src="https://github.com/user-attachments/assets/fca87db2-5d93-4d4b-8fa4-e49f2d0b3edf" />
 
 
